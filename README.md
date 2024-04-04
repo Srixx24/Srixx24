@@ -23,6 +23,14 @@ I am a student in the AR/VR program and have completed two trimesters that have 
 </ul></details>
 
 
+<details>
+<summary><h3>I've learned new programs.</h3></summary>
+<ul><li>Docker - management of applications within lightweight, isolated containers.</li>
+<li>VS code - a source code editor that has give me an efficient coding experience.</li>
+<li>Postman - API development tool that has made testing HTTP requests and analyzing responses very seamless.</li>
+<li>And more to come!</li>
+</ul></details>
+
 
 <details>
 <summary><h3>I've learned new skills or sharped ones I already had.</h3></summary>
@@ -33,18 +41,6 @@ I am a student in the AR/VR program and have completed two trimesters that have 
 <li>Thinking outside the box, generating innovative ideas, and approaching tasks with a new perspective.</li>
 <li>Bouncing back from setbacks, facing challenges with determination, and maintaining a positive mindset in the face of adversity.</li>
 </ul></details>
-
-<br>
-
-<details>
-<summary><h3>I've learned new programs.</h3></summary>
-<ul><li>Docker - management of applications within lightweight, isolated containers.</li>
-<li>VS code - a source code editor that has give me an efficient coding experience.</li>
-<li>Postman - API development tool that has made testing HTTP requests and analyzing responses very seamless.</li>
-<li>And more to come!</li>
-</ul></details>
-
-
 
 
 <details>
@@ -62,6 +58,11 @@ I am a student in the AR/VR program and have completed two trimesters that have 
 </div>
 
 
+
+
+<p align="right">
+  <img width="150" src="https://github.com/Srixx24/Srixx24/assets/144152489/6093b9ef-6cd0-4b18-a0db-d9b152892d29">
+</p>
 
 <!---
 Srixx24/Srixx24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
