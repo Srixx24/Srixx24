@@ -1,7 +1,7 @@
 ![Welcome_to_my_Profile!](https://github.com/Srixx24/Srixx24/assets/144152489/3008c157-ccb1-4f00-91f9-abbca4a06bde)
 
 <p align="center">
-✨ A small collaboration of all the work I've done so far at <a href="https://www.atlasschool.com/">Atlas School</a> by me <a href="https://github.com/Srixx24/">Jackie</a> ✨
+A small collaboration of all the work I've done so far at <a href="https://www.atlasschool.com/">Atlas School</a> by me <a href="https://github.com/Srixx24/">Jackie</a> ✨
 </p>
 
 ![Static Badge](https://img.shields.io/badge/Queers%20Ruling-Code%20Space-purple?style=string&logoColor=purple) 
@@ -9,6 +9,10 @@
 <h3><p align="left">
 I am a student in the AR/VR program and have completed two trimesters that have covered many basic skills in computer programing.
 </p></h3>
+Although I'm going into game dev, I very much enjoy front end languages. It's been my favorite part of the curriculum so far. Starting in 
+May 2024 I'll officially start AR/VR dev, I'm sure Unity will soon become a favorite as well! This program to date has provide me with many
+skills and helped sharpen ones already had. Like...
+
 
 <br>
 
@@ -33,7 +37,7 @@ I am a student in the AR/VR program and have completed two trimesters that have 
 
 
 <details>
-<summary><h3>I've learned new skills or sharped ones I already had.</h3></summary>
+<summary><h3>I've sharpened preexisting skills.</h3></summary>
 <ul><li>Efficiently organizing and prioritizing tasks, meeting deadlines, and effectively utilizing time and resources.</li>
 <li>The capacity to analyze information objectively, evaluate arguments and evidence, and make informed decisions.</li>
 <li>Working effectively with others, fostering teamwork, and being able to contribute to group projects.</li>
