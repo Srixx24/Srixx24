@@ -44,7 +44,7 @@ I am a student in the AR/VR program and have completed two trimesters that have 
 
 
 <details>
-<summary><h3>And I'm be learning more soon!</h3></summary>
+<summary><h3>And I'll be learning more soon!</h3></summary>
 <ul><li>How to program with C#</li>
 <li>How to use Unity and all its functionality</li>
 <li>How to create 3D applications</li>
