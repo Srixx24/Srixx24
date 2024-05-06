@@ -6,28 +6,28 @@ A small collaboration of all the work I've done so far at <a href="https://www.a
 
 ![Static Badge](https://img.shields.io/badge/Queers%20Ruling-Code%20Space-purple?style=string&logoColor=purple) 
 
-<h3><p align="left">
-I am a student in the AR/VR program and have completed two trimesters that have covered many basic skills in computer programing.
-</p></h3>
-Although I'm going into game dev, I very much enjoy front-end languages. It's been my favorite part of the curriculum so far. Starting in May 2024 I'll officially start AR/VR dev, I'm sure Unity will soon become a favorite as well! This program to date has provided me with many
-skills and helped sharpen the ones already had. Like...
+<h2><p align="left">
+I am a student in the AR/VR program and have completed two trimesters covering many basic computer programming skills.
+</p></h2>
+Although I'm going into game dev, I very much enjoy front-end languages. It's been my favorite part of the curriculum so far. This program has provided me with many skills. Like...
 
 
 <br>
 
 <details>
-<summary><h3>I've learned new languages.</h3></summary>
-<ul><li>The basics of C involving data types, control structures, functions, memory management, and more.</li>
-<li>The basics of Python in object-oriented programming, file I/O, and data structures.</li>
-<li>The basics of Javascript in event handling, manipulating HTML elements, and server-side development.</li>
-<li>The basics of HTML in the structure and content of webpages.</li>
-<li>The basics of CSS in creating layouts, designs, and visual appearances of web pages.</li>
-<li>Some Markdown in README files and formatting text.</li>
+<summary><h3>Languages I've learned so far</h3></summary>
+<ul><li>C</li>
+<li>Python</li>
+<li>C#</li>
+<li>Javascript</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>Markdown</li>
 </ul></details>
 
 
 <details>
-<summary><h3>I've learned new programs.</h3></summary>
+<summary><h3>Support programs</h3></summary>
 <ul><li>Docker - management of applications within lightweight, isolated containers.</li>
 <li>VS code - a source code editor that has given me an efficient coding experience.</li>
 <li>Postman - API development tool that has made testing HTTP requests and analyzing responses very seamless.</li>
@@ -36,19 +36,8 @@ skills and helped sharpen the ones already had. Like...
 
 
 <details>
-<summary><h3>I've sharpened preexisting skills.</h3></summary>
-<ul><li>Efficiently organizing and prioritizing tasks, meeting deadlines, and effectively utilizing time and resources.</li>
-<li>The capacity to analyze information objectively, evaluate arguments and evidence, and make informed decisions.</li>
-<li>Working effectively with others, fostering teamwork, and being able to contribute to group projects.</li>
-<li>Being flexible and open to change, adjusting well to new situations, and embracing challenges with a positive attitude.</li>
-<li>Thinking outside the box, generating innovative ideas, and approaching tasks with a new perspective.</li>
-<li>Bouncing back from setbacks, facing challenges with determination, and maintaining a positive mindset in the face of adversity.</li>
-</ul></details>
-
-
-<details>
 <summary><h3>And I'll be learning more soon!</h3></summary>
-<ul><li>How to program with C#</li>
+<ul>
 <li>How to use Unity and all its functionality</li>
 <li>How to create 3D applications</li>
 <li>And who knows what else 🤓 </li>
