@@ -1,7 +1,7 @@
 ![Welcome_to_my_Profile!](https://github.com/Srixx24/Srixx24/assets/144152489/3008c157-ccb1-4f00-91f9-abbca4a06bde)
 
 <p align="center">
-A small collaboration of all the work I've done so far at <a href="https://www.atlasschool.com/">Atlas School</a> by me <a href="https://github.com/Srixx24/">Jackie</a> ✨
+A collaboration of all the work I've done so far at <a href="https://www.atlasschool.com/">Atlas School</a> by me <a href="https://github.com/Srixx24/">Jackie</a> ✨
 </p>
 
 ![Static Badge](https://img.shields.io/badge/Queers%20Ruling-Code%20Space-purple?style=string&logoColor=purple) 
