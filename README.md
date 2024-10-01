@@ -21,7 +21,7 @@ I am ready to embrace the challenges and opportunities that come my way. With an
 <br>
 
 <details>
-<summary><h3>Languages I've learned so far</h3></summary>
+<summary><h3>Languages I've learned</h3></summary>
 <ul><li>C</li>
 <li>Python</li>
 <li>C#</li>
@@ -33,7 +33,7 @@ I am ready to embrace the challenges and opportunities that come my way. With an
 
 
 <details>
-<summary><h3>Support programs</h3></summary>
+<summary><h3>Programs I Work With</h3></summary>
 <ul><li>How to use Unity and all its functionality</li>
 <li>How to create 3D models with Blender </li>
 <li>VR applications and worlds</li>
