@@ -42,6 +42,11 @@ I am ready to embrace the challenges and opportunities that come my way. With an
 </ul></details>
 
 
+<h2><p align="center">
+Check me out on <a href="https://www.linkedin.com/in/jackielovins/">Linkedin</a>
+</p></h2>
+
+
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Srixx24&theme=monokai&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
