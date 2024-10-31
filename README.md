@@ -43,7 +43,7 @@ I am ready to embrace the challenges and opportunities that come my way. With an
 
 
 <h2><p align="center">
-Check me out on <a href="https://www.linkedin.com/in/jackielovins/">Linkedin</a>
+Connect with me on <a href="https://www.linkedin.com/in/jackielovins/">Linkedin</a>
 </p></h2>
 
 
