@@ -9,19 +9,13 @@ A collaboration of all the work I've done so far at <a href="https://www.atlassc
 <h2><p align="center">
 Here I go learning again 🤓
 </p></h2>
-Ever since I was a child, I have been captivated by the power of creation. Whether it was constructing intricate structures with Legos or crafting virtual houses on Sims, the joy of envisioning something and bringing it to life has always been my true passion. It's this passion that has driven me to pursue my education in the AR/VR program at Atlas School. 
+Ever since I was a child, I have been captivated by the power of creation. Whether it was constructing intricate structures with Legos or crafting virtual houses on Sims, the joy of envisioning something and bringing it to life has always been my true passion. It's this passion that has driven me to carve a path in the direction of XR and front-end development. As I aspire to transform this passion into something truly great, I remain ready to embrace the challenges and opportunities that come my way. With an open mind and a hunger for learning, I look forward to the endless possibilities that lie ahead.
+
 <br>
-<br>
-
-I aspire to transform this passion into something truly great. While my primary focus lies in game development, the skills I have gained in over a decade of management have sparked my interest in project management. Additionally, since creation does hold such a strong place in my life, I have been leaning toward asset design and development as well. While I remain open to all possibilities within the gaming industry, I have begun to carve a path in these directions.
-
-I am ready to embrace the challenges and opportunities that come my way. With an open mind and a hunger for learning, I look forward to the endless possibilities that lie ahead. 
-
-
 <br>
 
 <details>
-<summary><h3>Languages I've learned</h3></summary>
+<summary><h3>Languages</h3></summary>
 <ul><li>C</li>
 <li>Python</li>
 <li>C#</li>
@@ -33,12 +27,14 @@ I am ready to embrace the challenges and opportunities that come my way. With an
 
 
 <details>
-<summary><h3>Programs I Work With</h3></summary>
-<ul><li>How to use Unity and all its functionality</li>
-<li>How to create 3D models with Blender </li>
+<summary><h3>Programs</h3></summary>
+<ul><li>Unity</li>
+<li>Blender</li>
 <li>VR applications and worlds</li>
-<li>Docker - management of applications within lightweight, isolated containers.</li>
-<li>VS code - a source code editor that has given me an efficient coding experience.</li>
+<li>Docker</li>
+<li>VS code</li>
+<li>Gimp</li>
+<li>HackerOne</li>
 </ul></details>
 
 
