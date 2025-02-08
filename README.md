@@ -1,9 +1,5 @@
 ![Welcome_to_my_Profile!](https://github.com/Srixx24/Srixx24/assets/144152489/3008c157-ccb1-4f00-91f9-abbca4a06bde)
 
-<p align="center">
-A collaboration of all the work I've done so far at <a href="https://www.atlasschool.com/">Atlas School</a> by me <a href="https://github.com/Srixx24/">Jackie</a> ✨
-</p>
-
 ![Static Badge](https://img.shields.io/badge/Queers%20Ruling-Code%20Space-purple?style=string&logoColor=purple) 
 
 <h2><p align="center">
@@ -30,7 +26,7 @@ Ever since I was a child, I have been captivated by the power of creation. Wheth
 <summary><h3>Programs</h3></summary>
 <ul><li>Unity</li>
 <li>Blender</li>
-<li>VR applications and worlds</li>
+<li>VR applications</li>
 <li>Docker</li>
 <li>VS code</li>
 <li>Gimp</li>
